@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mariadb": {
+    "host": "10.41.37.221",
+    "port": 3306,
+    "url": "mysql://root:root@10.41.37.221/sakila",
+    "database": "sakila",
+    "password": "root",
+    "name": "mariadb",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
